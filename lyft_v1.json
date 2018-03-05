@@ -1224,14 +1224,17 @@
       "type": "object",
       "allOf": [
         {
-          "$ref": "#/definitions/UserDetail",
+          "$ref": "#/definitions/UserDetail"
+        },
+        {
+          "type": "object",
           "properties": {
             "last_name": {
               "type": "string",
               "description": "The passenger's last name"
             }
           }
-        }
+        }	  
       ],
       "example": {
         "first_name": "Jane",
