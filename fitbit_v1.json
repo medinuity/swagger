@@ -5115,6 +5115,7 @@
                         "type": "string",
                         "enum": [
                           "startTime",
+                          "duration",
                           "timeInBed",
                           "minutesAsleep",
                           "awakeningsCount",
