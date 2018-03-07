@@ -5115,7 +5115,6 @@
                         "type": "string",
                         "enum": [
                           "startTime",
-                          "duration",
                           "timeInBed",
                           "minutesAsleep",
                           "awakeningsCount",
@@ -5486,70 +5485,7 @@
                 ]
             }
         },
-        "/1.2/user/-/sleep.json": {
-            "post": {
-                "tags": [
-                    "Sleep"
-                ],
-                "summary": "Log Sleep",
-                "description": "Creates a log entry for a sleep event and returns a response in the format requested.",
-                "operationId": "sleep",
-                "produces": [
-                    "application/json"
-                ],
-                "parameters": [
-                    {
-                        "name": "startTime",
-                        "in": "query",
-                        "description": "Start time includes hours and minutes in the format HH:mm.",
-                        "required": true,
-                        "type": "string"
-                    },
-                    {
-                        "name": "duration",
-                        "in": "query",
-                        "description": "Duration in milliseconds.",
-                        "required": true,
-                        "type": "integer"
-                    },
-                    {
-                        "name": "date",
-                        "in": "query",
-                        "description": "Log entry in the format yyyy-MM-dd.",
-                        "required": true,
-                        "type": "date"
-                    }
-
-                ],
-                "responses": {
-                    "200": {
-                        "description": "Successful request."
-                     },
-                    "401": {
-                        "description": "The request requires user authentication."
-                    },
-                    "403": {
-                        "description": "The server understood the request, but is refusing to fulfill it."
-                    }
-                },
-                "security": [
-                    {
-                        "oauth2": [
-                            "activity",
-                            "heartrate",
-                            "location",
-                            "nutrition",
-                            "profile",
-                            "settings",
-                            "sleep",
-                            "social",
-                            "weight"
-                        ]
-                    }
-                ]
-            }
-        },
-
+ 
         "/1/user/-/{collection-path}/apiSubscriptions.json": {
             "get": {
                 "tags": [
