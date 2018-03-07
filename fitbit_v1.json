@@ -67,14 +67,7 @@
                 "url": "https://dev.fitbit.com/reference/web-api/heart-rate/"
             }
         },
-        {
-            "name": "Sleep",
-            "description": "",
-            "externalDocs": {
-                "description": "Full documentation",
-                "url": "https://dev.fitbit.com/reference/web-api/sleep/"
-            }
-        },
+        
         {
             "name": "Subscriptions",
             "description": "",
@@ -261,7 +254,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -340,7 +333,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -419,7 +412,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -500,7 +493,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -581,7 +574,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -663,7 +656,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -738,7 +731,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -834,7 +827,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -923,7 +916,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1023,7 +1016,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1063,7 +1056,7 @@
                                         "nutrition",
                                         "profile",
                                         "settings",
-                                        "sleep",
+                                        
                                         "social",
                                         "weight"
                                     ]
@@ -1112,7 +1105,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1195,7 +1188,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1249,7 +1242,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1291,7 +1284,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1343,7 +1336,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1386,7 +1379,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1429,7 +1422,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1472,7 +1465,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1525,7 +1518,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1578,7 +1571,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1631,7 +1624,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1695,7 +1688,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1744,7 +1737,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1800,7 +1793,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1856,7 +1849,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1923,7 +1916,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -1974,7 +1967,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2043,7 +2036,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2113,7 +2106,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2161,7 +2154,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2212,7 +2205,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2319,7 +2312,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2374,7 +2367,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2430,7 +2423,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2496,7 +2489,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2547,7 +2540,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2587,7 +2580,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2636,7 +2629,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2713,7 +2706,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2814,7 +2807,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2867,7 +2860,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -2910,7 +2903,7 @@
                           "nutrition",
                           "profile",
                           "settings",
-                          "sleep",
+                          
                           "social",
                           "weight"
                       ]
@@ -2952,7 +2945,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3016,7 +3009,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3069,7 +3062,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3120,7 +3113,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3154,7 +3147,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3203,7 +3196,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3274,7 +3267,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3345,7 +3338,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3453,7 +3446,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3504,7 +3497,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3569,7 +3562,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3620,7 +3613,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3684,7 +3677,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3727,7 +3720,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3770,7 +3763,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3822,7 +3815,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3874,7 +3867,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3917,7 +3910,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -3994,7 +3987,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4081,7 +4074,7 @@
                           "nutrition",
                           "profile",
                           "settings",
-                          "sleep",
+                          
                           "social",
                           "weight"
                       ]
@@ -4130,7 +4123,7 @@
                           "nutrition",
                           "profile",
                           "settings",
-                          "sleep",
+                          
                           "social",
                           "weight"
                       ]
@@ -4173,7 +4166,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4260,7 +4253,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4312,7 +4305,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4364,7 +4357,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4407,7 +4400,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4459,7 +4452,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4498,7 +4491,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4537,7 +4530,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4576,7 +4569,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4631,7 +4624,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4686,7 +4679,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4741,7 +4734,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4804,7 +4797,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4881,7 +4874,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -4938,7 +4931,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5009,7 +5002,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5058,7 +5051,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5113,7 +5106,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5166,7 +5159,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5384,7 +5377,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5423,7 +5416,7 @@
                             "nutrition",
                             "profile",
                             "settings",
-                            "sleep",
+                            
                             "social",
                             "weight"
                         ]
@@ -5444,7 +5437,7 @@
                 "nutrition": "Calorie consumption and nutrition related features, such as food/water logging, goals, and plans",
                 "profile": "Basic user information",
                 "settings": "User account and device settings, such as alarms",
-                "sleep": "Sleep logs and related sleep analysis",
+                
                 "social": "Friend-related features, such as friend list, invitations, and leaderboard",
                 "weight": "Weight and related information, such as body mass index, body fat percentage, and goals"
             }
